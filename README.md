@@ -1,7 +1,7 @@
 ## Featured Visualisations
 
 ### HIV Envelope: Hydrogen bonding heatmap and structure
-For my Masters, I worked on HIV structure, and how different parts of the protein interacted.  
+For my Masters, I worked on HIV structure, and how different parts of the Envelope protein interacted.  
 Yellow = strong interactions, purple = low or no interaction. 
 
 <img src="docs/HIV-1_Env_H-bonds.png" width="750" height="600" />
